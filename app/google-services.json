@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "596646215616",
+    "firebase_url": "https://test-75a45.firebaseio.com",
+    "project_id": "test-75a45",
+    "storage_bucket": "test-75a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596646215616:android:7a03f99bcb147697",
+        "android_client_info": {
+          "package_name": "com.mobilneaplikacije.totvuc.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596646215616-2o647rpup5i8ifijklvkpe6j75s5hp31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobilneaplikacije.totvuc.test",
+            "certificate_hash": "5129e3c99589035e2f507cf5135021c39c089a03"
+          }
+        },
+        {
+          "client_id": "596646215616-cffiu0nqt6sno7djv5la2l97lvl8caig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEYAsmnqGQWvcGbn7T5xv2t3xPxrs9ZNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596646215616-cffiu0nqt6sno7djv5la2l97lvl8caig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

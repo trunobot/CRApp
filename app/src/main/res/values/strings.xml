@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cash Register App</string>
+    <string-array name="test_items">
+        <item>Burek</item>
+        <item>Coca Cola</item>
+        <item>Marlboro</item>
+        <item>Nešto Četvrto</item>
+        <item>Bla</item>
+    </string-array>
+
+    <string-array name="test_prices">
+        <item>10,00</item>
+        <item>8,70</item>
+        <item>23,45</item>
+        <item>54,78</item>
+        <item>13,22</item>
+    </string-array>
+</resources>
